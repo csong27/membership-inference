@@ -1,5 +1,5 @@
 # Membership Inference Attack against Machine Learning Models
-This repository contains example of experiments for the paper Membership Inference Attack against Machine Learning Models (https://www.cs.cornell.edu/~shmat/shmat_oak17.pdf). 
+This repository contains example of experiments for the paper Membership Inference Attack against Machine Learning Models (http://ieeexplore.ieee.org/document/7958568/). 
 
 ### Attack Experiment
 python attack.py train_feat_file train_label_file
